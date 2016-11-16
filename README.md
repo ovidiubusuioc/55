@@ -1,10 +1,5 @@
 TEXT CLIENT 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package seriaC.poo.client;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -36,12 +31,7 @@ public class TextClient {
 }
 
 CLIENTPEER
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package seriaC.poo.client;
+
 
 import java.net.Socket;
 
